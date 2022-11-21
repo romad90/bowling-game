@@ -11,10 +11,12 @@ A strike, when the bowler knocks down 10 pins on the first roll on the frame
  the 10th frame, if there is a spare, we will have a roll
  if this a strike, we will have two more rolls
 
- ##
--/- -/- -/- -/- -/- -/- -/- -/- -/- -/- => 0
-1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 => 20
-5/5 1/- -/- -/- -/- -/- -/- -/- -/- -/- => 12
-10  1/1 -/- -/- -/- -/- -/- -/- -/- -/- => 14
-10 10 10 10 10 10 10 10 10 10 10 10 10  => 300
+ ## Unit testing
+ Set of data that will allow us to validate the scoring of our module.
+ 
+-/- -/- -/- -/- -/- -/- -/- -/- -/- -/- => 0 <br/>
+1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 => 20 <br/>
+5/5 1/- -/- -/- -/- -/- -/- -/- -/- -/- => 12 <br/>
+10  1/1 -/- -/- -/- -/- -/- -/- -/- -/- => 14 <br/>
+10 10 10 10 10 10 10 10 10 10 10 10 10  => 300 <br/>
 
