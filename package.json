@@ -1,0 +1,19 @@
+{
+  "name": "bowling-game",
+  "version": "1.0.0",
+  "description": "tdd first, approach on bowling-game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "tdd",
+    "bowling-game",
+    "javascript"
+  ],
+  "author": "Rodier Madiande",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
